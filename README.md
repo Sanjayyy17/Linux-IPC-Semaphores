@@ -107,10 +107,10 @@ if(NUM_LOOPS>=10)    {
     }
     return 0;}
 
+
 ```
 ## OUTPUT
-![image](https://github.com/AasrithSairam/Linux-IPC-Semaphores/assets/139331438/631ee598-efcb-41d4-a1cc-826feb3a7107)
-
+![319499166-631ee598-efcb-41d4-a1cc-826feb3a7107](https://github.com/Sanjayyy17/Linux-IPC-Semaphores/assets/151901260/f191322d-b248-49a4-8122-3c0dc76f507a)
 
 
 # RESULT:
